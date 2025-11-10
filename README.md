@@ -1,2 +1,2 @@
 # individual-project-planning
-Data Science Project Planning Stage
+Data Science Project Planning Report
